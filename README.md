@@ -1,4 +1,4 @@
 RPGAndroidGame
 ==============
 
-Exam project hej mit navn er Nichlas
+Exam project hej mit navm er Nichlas
